@@ -1,12 +1,10 @@
-# Resolución de retos de programación
-
 ![Logo](codember.png)
 
-Este repositorio contiene las resolucones al reto de codember.dev
+Este repositorio contiene las resoluciones al reto de codember.dev
 
 ## Retos
 
-1. [Reto 1](./challenge1/)
+1. [Reto 1 js](./challenge1/)
 
 ... y más por venir.
 
